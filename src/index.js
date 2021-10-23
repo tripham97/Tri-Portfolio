@@ -14,7 +14,3 @@ window.$secondaryLanguageIconId = 'secondary-lang-icon';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 serviceWorker.register();
-
-const port = process.env.PORT || 5000;
-App.listen(port,() => console.log(
-'listening song on port 5000'))
