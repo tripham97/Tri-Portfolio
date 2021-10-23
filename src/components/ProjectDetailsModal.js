@@ -30,7 +30,7 @@ class ProjectDetailsModal extends Component {
         });
         if (this.props.data.images) {
           var img = images.map((elem, i) => {
-            return <div key={i} data-src={elem} />;
+            return <div key={i} data-src={elem}/>;
           });
         }
       }
@@ -47,13 +47,13 @@ class ProjectDetailsModal extends Component {
           <i className="fas fa-times fa-3x close-icon"></i>
         </span>
         <div className="col-md-12">
-          <div className="col-md-10 mx-auto" style={{ paddingBottom: "50px" }}>
+          <div className="col-md-10 mx-auto" style={{ paddingBottom: "5px" }}>
             <div className="slider-tab">
               <span
                 className="iconify slider-iconfiy"
                 data-icon="emojione:red-circle"
                 data-inline="false"
-                style={{ marginLeft: "5px" }}
+                style={{ marginLeft: "50px" }}
               ></span>{" "}
               &nbsp;{" "}
               <span
@@ -77,7 +77,7 @@ class ProjectDetailsModal extends Component {
             </AwesomeSlider>
           </div>
           <div className="col-md-10 mx-auto">
-            <h3 style={{ padding: "5px 5px 0 5px" }}>
+            <h3 style={{ padding: "50px 50px 0 5px" }}>
               {title}
               {url ? (
                 <a
