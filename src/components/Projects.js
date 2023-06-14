@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import ProjectDetailsModal from "./ProjectDetailsModal";
+import { Image } from "react-bootstrap";
 
 class Projects extends Component {
   constructor(props) {
@@ -28,7 +29,7 @@ class Projects extends Component {
             <span className="portfolio-item d-block">
               <div className="foto" onClick={() => detailsModalShow(projects)}>
                 <div>
-                  <img
+                  <Image
                     src={projects.images[0]}
                     alt="projectImages"
                     className="img-project"
