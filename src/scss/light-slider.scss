@@ -104,10 +104,10 @@ $content-background-color: #833b3b;
       justify-content: center;
     }
 
-    // img {
-    //   width: 35%;
-    //   height: auto;
-    // }
+    img {
+      width: 35%;
+      height: auto;
+    }
   }
   &__content {
     @extend %fill-parent;
