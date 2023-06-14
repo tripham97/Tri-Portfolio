@@ -11,43 +11,59 @@
     },
     "projects": [
       {
-        "title": "CoinPrint",
-        "startDate": "May 2021",
-        "description": "Constructed an eco-friendly application with e-wallet feature and go-green options for the user by using Photoshop",
+        "title": "AIAA UTD Website",
+        "startDate": "January 2023",
+        "description": "As the web developer for the American Institute of Aeronautics and Astronautics (AIAA), I am currently overseeing the development of a new website using modern web technologies such as Next.js, React, Bootstrap, NextUI, Vercel, HTML, CSS, and JavaScript. The website is being designed to be user-friendly and informative, showcasing the club's events, projects, and resources to its members and the public. I am working closely with a team of designers, developers, and content creators to ensure that the website meets the club's needs and exceeds its expectations. Regular meetings and communication with the team are crucial to our progress, and we are using tools like Figma and Git to streamline our workflow and collaboration. The result will be a functional and visually appealing website that reflects the professionalism and innovation of the AIAA.",
         "images": [
-          "images/portfolio/coin-print/p1.jpg"
+          "images/portfolio/aiaa-utd/p1.png",
+          "images/portfolio/aiaa-utd/p2.png",
+          "images/portfolio/aiaa-utd/p3.png"
         ],
-        "url": "https://devpost.com/software/coinprint",
+        "url": "https://www.aiaautd.org/",
         "technologies": [
           {
-            "class": "devicon-photoshop-plain",
-            "name": "Photoshop"
+            "class": "devicon-nextjs",
+            "name": "Next.js"
           }
         ]
       },
       {
-        "title": "MiCommunity",
-        "startDate": "May 2021",
+        "title": "Simple UTD Planner",
+        "startDate": "February 2023",
         "description": "Established a better social media experience for users.",
         "images": [
-          "images/portfolio/micommunity/p1.jpg"
+          "images/portfolio/simple-utd-planner/p1.png",
+          "images/portfolio/simple-utd-planner/p2.png",
+          "images/portfolio/simple-utd-planner/p3.png",
+          "images/portfolio/simple-utd-planner/p4.png",
+          "images/portfolio/simple-utd-planner/p5.png"
         ],
-        "url": "https://devpost.com/software/micommunity",
+        "url": "https://simple-utd-planner.vercel.app/",
         "technologies": [
           {
-            "class": "devicon-photoshop-plain",
-            "name": "Photoshop"
+            "class": "devicon-nextjs",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-api-plain",
+            "name": "APIs"
+          },
+          {
+            "class": "devicon-pyhton-plain",
+            "name": "Python.js"
           }
         ]
       },
       {
-        "title": "Houston Almanac",
-        "startDate": "May 2021",
-        "description": "Published a simple newsletter that people without Internet or access to technology could read by using WordPress.",
+        "title": "The Jonsson School Magazine",
+        "startDate": "September 2022",
+        "description": "Published a research magazine for the Jonsson School Computer Science and Engineering at the University of Texas at Dallas.",
         "images": [
-          "images/portfolio/almanac/p1.jpg"
+          "images/portfolio/jonsson-school-magazine/p1.png",
+          "images/portfolio/jonsson-school-magazine/p2.png",
+          "images/portfolio/jonsson-school-magazine/p3.png"
         ],
-        "url": "https://almanac.ideasacademy.app/",
+        "url": "https://engineering-magazine.utdallas.edu/",
         "technologies": [
           {
             "class": "devicon-wordpress-plain",
@@ -64,13 +80,14 @@
         ]
       },
       {
-        "title": "Eagle On Campus",
-        "startDate": "April 2021",
-        "description": "One of the first websites I was working on as Secretary of Student Government Association. I had to develop front-end implementation for app that shows 3D models of known buildings. I've learned a lot!",
+        "title": "ReVision",
+        "startDate": "September 2022",
+        "description": "Developed an application to educate people For a sustainable, long-term impact, and encourage more proper waste practices",
         "images": [
-          "images/portfolio/eagleoncampus/p1.jpg"
+          "images/portfolio/revision/p1.png",
+          "images/portfolio/revision/p2.mp4"
         ],
-        "url": "https://eaglesoncampus.com/",
+        "url": "https://devpost.com/software/revision-r0hz2q?ref_content=user-portfolio&ref_feature=in_progress",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -87,29 +104,90 @@
         ]
       },
       {
-        "title": "The Autonomous Underground Mapping Radar Auger (AUMRA)",
-        "startDate": "May 2020",
-        "description": "The AUMRA is proposed as a way of gaining this information through an autonomous drilling rover, capable of sending data about the underground environment through multiple instruments and providing a closer look underneath the moon's surface. ",
+        "title": "Auction Tree",
+        "startDate": "May 2021",
+        "description": "Deployed a full-stack web applicaZon using Node.js, React, and MongoDB, resulZng in a 50% increase in user engagement.",
         "images": [
-          "images/portfolio/aumra/p1.jpg"
+          "images/portfolio/auctiontree/p1.png",
+          "images/portfolio/auctiontree/p2.png",
+          "images/portfolio/auctiontree/p3.png"
         ],
-        "url": "https://drive.google.com/file/d/1kqPr1MFFRFG60rq-J_8MQF9cjWM-Nlcn/view?usp=sharing"
+        "url": "https://www.auctiontree.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
       },
       {
-        "title": "Actuated Surface Laser Activated Nominal – Ice Detector",
-        "startDate": "Spring 2020",
-        "description": "Team Dias will further advance the research required to establish a sustainable human presence on the Moon. This will be done by validating the existence of water ice within the Permanently Shadowed Regions (PSRs) located in Shoemaker on the Lunar South Pole. The lander designed for the mission is named ASLAN-ID (Actuated Surface) Laser Activated Nominal - Ice Detector)",
+        "title": "Word On The Street",
+        "startDate": "November 2022",
+        "description": "Word on the Street is a review site meant solely to rate communities such as cities or neighborhoods. It is meant to both give tenants a voice whilst also assisting potential tenants in making a decision on where to live.",
         "images": [
-          "images/portfolio/Dias/p1.jpg"
+          "images/portfolio/wots/p1.png",
+          "images/portfolio/wots/p2.png",
+          "images/portfolio/wots/p3.png"
         ],
-        "url": "https://drive.google.com/file/d/1X3iUXKOuTowniQ8bvlo8YtH_9s_h04qj/view?usp=sharing"
+        "url": "https://wordonthestreet.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
       }
     ],
     "experience": [
       {
+        "company": "Surge Energy",
+        "title": "Information Delivery Systems Intern ",
+        "years": "05.2023 - present",
+        "mainTech": [
+          "ASP.NET Core",
+          "Blazor Sever App",
+          "SpotFire"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Spotfire",
+          "Blazor"
+        ]
+      },
+      {
+        "company": "The University of Texas at Dallas",
+        "title": "Web Specialist",
+        "years": "09.2022 - present",
+        "mainTech": [
+          "HTML","CSS", "JavaScript", "WordPress"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Bootstrap",
+          "Wordpress",
+          "MS Office"
+        ]
+      },
+      {
         "company": "EDGE196",
         "title": "Front-End Developer",
-        "years": "08.2021 - present",
+        "years": "08.2021 - 08.2022",
         "mainTech": [
           "React"
         ],
