@@ -32,6 +32,7 @@ class Projects extends Component {
                     src={projects.images[0]}
                     alt="projectImages"
                     className="img-project"
+                    height={0}
                   />
                   <span className="project-date">{projects.startDate}</span>
                   <br />
