@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Chào",
-      "description": "👋 Xin chào. Mình tên là Trí. Mình vừa mới tốt nghiệp tuè Houston Community College và đang thực tập với vai trò là Front-End Developer. Hiện mình đang làm việc với những framework như là React, React Native và Vue. Mình đang mong muốn tìm được một công việc Intern với vai trò là Software Engineer. ",
+      "description": "👋 Xin chào. Mình tên là Trí. Mình đang thực tập tại Surge Energy với vai trò là IT Intern. Mình hiện đang học tại the University of Texas at Dallas. Hiện mình đang làm việc với những framework như là React, React Native, Next.js và Vue. Mình đang mong muốn tìm được một công việc Intern với vai trò là Software Engineer. ",
       "section_name": {
         "about": "Sơ lược bản thân",
         "projects": "Dự Án",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "AIAA UTD Website",
-        "startDate": "January 2023",
-        "description": "As the web developer for the American Institute of Aeronautics and Astronautics (AIAA), I am currently overseeing the development of a new website using modern web technologies such as Next.js, React, Bootstrap, NextUI, Vercel, HTML, CSS, and JavaScript. The website is being designed to be user-friendly and informative, showcasing the club's events, projects, and resources to its members and the public. I am working closely with a team of designers, developers, and content creators to ensure that the website meets the club's needs and exceeds its expectations. Regular meetings and communication with the team are crucial to our progress, and we are using tools like Figma and Git to streamline our workflow and collaboration. The result will be a functional and visually appealing website that reflects the professionalism and innovation of the AIAA.",
+        "title": "Trang Web AIAA UTD",
+        "startDate": "01.2023",
+        "description": "Mình cùng team Web tại UTD lập nên 1 trang web mới cho AIAA UTD. Mình sử dụng Next.js để tạo ra trang web này.",
         "images": [
           "images/portfolio/aiaa-utd/p1.png",
           "images/portfolio/aiaa-utd/p2.png",
@@ -29,8 +29,8 @@
       },
       {
         "title": "Simple UTD Planner",
-        "startDate": "February 2023",
-        "description": "Established a better social media experience for users.",
+        "startDate": "02/2023",
+        "description": "Mình và Fernado đã lập nên 1 website nơi mà sinh viên có thể tạo ra lịch học của mình. Mình sử dụng Next.js để tạo ra trang web này.",
         "images": [
           "images/portfolio/simple-utd-planner/p1.png",
           "images/portfolio/simple-utd-planner/p2.png",
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "The Jonsson School Magazine",
-        "startDate": "September 2022",
-        "description": "Published a research magazine for the Jonsson School Computer Science and Engineering at the University of Texas at Dallas.",
+        "title": "Tạp chí Jonsson School",
+        "startDate": "09.2022",
+        "description": "Mình cùng với team Marketing tại Jonsson School tạo ra 1 trang web mới cho tạp chí của trường. Mình sử dụng WordPress/Divi để tạo ra trang web này.",
         "images": [
           "images/portfolio/jonsson-school-magazine/p1.png",
           "images/portfolio/jonsson-school-magazine/p2.png",
@@ -81,8 +81,8 @@
       },
       {
         "title": "ReVision",
-        "startDate": "September 2022",
-        "description": "Developed an application to educate people For a sustainable, long-term impact, and encourage more proper waste practices",
+        "startDate": "09.2022",
+        "description": "Mình cùng nhóm bạn học đã tham gia DFW Hackathon để cho ra mắt ứng dụng có thể xác định và phân loại rác thải. Mình sử dụng React Native để tạo ra ứng dụng này.",
         "images": [
           "images/portfolio/revision/p1.png",
           "images/portfolio/revision/p2.mp4"
@@ -105,8 +105,8 @@
       },
       {
         "title": "Auction Tree",
-        "startDate": "May 2021",
-        "description": "Deployed a full-stack web applicaZon using Node.js, React, and MongoDB, resulZng in a 50% increase in user engagement.",
+        "startDate": "05.2021",
+        "description": "Mình và team 3 người đã lập nên 1 trang web để đấu giá, bán, và mua những tài sản có giá trị cao. Mình đã sử dụng React và Node.js để tạo ra trang web này.",
         "images": [
           "images/portfolio/auctiontree/p1.png",
           "images/portfolio/auctiontree/p2.png",
@@ -130,8 +130,8 @@
       },
       {
         "title": "Word On The Street",
-        "startDate": "November 2022",
-        "description": "Word on the Street is a review site meant solely to rate communities such as cities or neighborhoods. It is meant to both give tenants a voice whilst also assisting potential tenants in making a decision on where to live.",
+        "startDate": "11.2022",
+        "description": "Đây là 1 trang web để đánh giá và xếp hạng khu vực xung quanh. Mình đã sử dụng React và MongoDB để tạo ra trang web này.",
         "images": [
           "images/portfolio/wots/p1.png",
           "images/portfolio/wots/p2.png",
@@ -156,9 +156,38 @@
     ],
     "experience": [
       {
+        "company": "Surge Energy",
+        "title": "Information Delivery Systems Intern ",
+        "years": "05.2023 - hiện tại",
+        "mainTech": [
+          "ASP.NET Core",
+          "Blazor Sever App",
+          "SpotFire"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Spotfire",
+          "Blazor"
+        ]
+      },
+      {
+        "company": "The University of Texas at Dallas",
+        "title": "Web Specialist",
+        "years": "09.2022 - hiện tại",
+        "mainTech": [
+          "HTML","CSS", "JavaScript", "WordPress"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Bootstrap",
+          "Wordpress",
+          "MS Office"
+        ]
+      },
+      {
         "company": "EDGE196",
         "title": "Front-End Developer",
-        "years": "08.2021 - present",
+        "years": "08.2021 - 08.2022",
         "mainTech": [
           "React"
         ],
@@ -196,7 +225,7 @@
       },
       {
         "company": "HCC Stdent Government Association",
-        "title": "Secretary",
+        "title": "Thư kí",
         "years": "05.2020 - 05.2021",
         "mainTech": [
         ],
@@ -205,7 +234,7 @@
       },
       {
         "company": "Mu Alpha Theta National Mathematics Honor Society",
-        "title": "Secreatry",
+        "title": "Thư kí",
         "years": "10.2019 - 05.2020",
         "mainTech": [
         ],
@@ -214,7 +243,7 @@
       },
       {
         "company": "Barnes & Noble College",
-        "title": "Trợ Lý Nhà Sách",
+        "title": "Trợ lý bán hàng",
         "years": "01.2019 - 03.2020",
         "mainTech": [
           "Oracle"
@@ -225,7 +254,7 @@
       },
       {
         "company": "XLE",
-        "title": "Hiệp hội bóng rổ Việt Nam",
+        "title": "Thực tập sinh tại Vietnam Basketball Association Management",
         "years": "08.2015 - 09.2016",
         "mainTech": [
           "Excel, Office, Scripting"
